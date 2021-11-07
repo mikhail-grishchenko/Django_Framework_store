@@ -11,9 +11,10 @@ class ProductAdmin(admin.ModelAdmin):
     fields = ('name', 'image', 'description', 'short_description', 'price', 'quantity', 'category', 'subcategory')
     search_fields = ('name', 'description', 'short_description', 'price', 'quantity',)
 
-
 class BasketAdminInLine(admin.TabularInline):
     model = Basket
     fields = ('product', 'quantity', 'created_timestamp',)
     readonly_fields = ('product', 'created_timestamp',)
     extra = 0
+
+#comment
