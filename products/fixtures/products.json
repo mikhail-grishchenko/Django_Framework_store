@@ -1,0 +1,4398 @@
+[
+  {
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+      "name": "Торт двухъярусный детский",
+      "image": "products_images/Devochkam-Tort-Ramenskoe-Zhukovskiy-fiksiki-rozovyj-600x600.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00001. Категории: ДЕТСКИЕ, ДЕВОЧКАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+      "name": "Торт Аллоха",
+      "image": "products_images/Devochkam-Alloha-600x489-Ramenskoe-Zhukovskiy.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00002. Категории: ДЕТСКИЕ, ДЕВОЧКАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+      "name": "Торт котята",
+      "image": "products_images/Devochkam-Tort-Ramenskoe-Zhukovskiy-tri-kota-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00003. Категории: ДЕТСКИЕ, ДЕВОЧКАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 5,
+    "fields": {
+      "name": "Торт кошечка Мари",
+      "image": "products_images/Devochkam-Tort-Ramenskoe-Zhukovskiy-koshechka-Mari-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00004. Категории: ДЕТСКИЕ, ДЕВОЧКАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 6,
+    "fields": {
+      "name": "Торт кошки",
+      "image": "products_images/Devochkam-Tort-Ramenskoe-Zhukovskiy-tri-kota-zheltyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00005. Категории: ДЕТСКИЕ, ДЕВОЧКАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 7,
+    "fields": {
+      "name": "Торт куклы Лол",
+      "image": "products_images/Devochkam-Tort-Ramenskoe-Zhukovskiy-kukly-Lol-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00006. Категории: ДЕТСКИЕ, ДЕВОЧКАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 8,
+    "fields": {
+      "name": "Торт куклы Лол трехъярусный",
+      "image": "products_images/Devochkam-Tort-Ramenskoe-Zhukovskiy-kukly-Lol-trehyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00007. Категории: ДЕТСКИЕ, ДЕВОЧКАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 9,
+    "fields": {
+      "name": "Торт леди Баг и супер Кот",
+      "image": "products_images/Devochkam-Tort-Ramenskoe-Zhukovskiy-ledi-Bag-i-super-Kot-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00008. Категории: ДЕТСКИЕ, ДЕВОЧКАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 10,
+    "fields": {
+      "name": "Торт фиксики",
+      "image": "products_images/Devochkam-Tort-Ramenskoe-Zhukovskiy-fiksiki-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00009. Категории: ДЕТСКИЕ, ДЕВОЧКАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 11,
+    "fields": {
+      "name": "Торт принцесса",
+      "image": "products_images/Devochkam-Tort-Ramenskoe-Zhukovskiy-princzessa-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00010. Категории: ДЕТСКИЕ, ДЕВОЧКАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 12,
+    "fields": {
+      "name": "Торт принцесса с короной",
+      "image": "products_images/Devochkam-Tort-Ramenskoe-Zhukovskiy-princzessa-s-koronoj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00011. Категории: ДЕТСКИЕ, ДЕВОЧКАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 13,
+    "fields": {
+      "name": "Торт русалочка",
+      "image": "products_images/Devochkam-Tort-Ramenskoe-Zhukovskiy-rusalochka-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00012. Категории: ДЕТСКИЕ, ДЕВОЧКАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 14,
+    "fields": {
+      "name": "Торт песочница",
+      "image": "products_images/Dlya-malyshej-Tort-Ramenskoe-Zhukovskiy-pesochnicza-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00013. Категории: ДЕТСКИЕ, ДЛЯ МАЛЫШЕЙ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 15,
+    "fields": {
+      "name": "Торт радуга",
+      "image": "products_images/Dlya-malyshej-Tort-Ramenskoe-Zhukovskiy-raduga-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00014. Категории: ДЕТСКИЕ, ДЛЯ МАЛЫШЕЙ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 16,
+    "fields": {
+      "name": "Торт сладкие сны",
+      "image": "products_images/Dlya-malyshej-Tort-Ramenskoe-Zhukovskiy-sladkie-sny-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00015. Категории: ДЕТСКИЕ, ДЛЯ МАЛЫШЕЙ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 17,
+    "fields": {
+      "name": "Торт малышок",
+      "image": "products_images/Dlya-malyshej-Tort-Ramenskoe-Zhukovskiy-malyshok-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00016. Категории: ДЕТСКИЕ, ДЛЯ МАЛЫШЕЙ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 18,
+    "fields": {
+      "name": "Торт тигр",
+      "image": "products_images/Dlya-malyshej-Tort-Ramenskoe-Zhukovskiy-tigr-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00017. Категории: ДЕТСКИЕ, ДЛЯ МАЛЫШЕЙ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 19,
+    "fields": {
+      "name": "Торт уточка",
+      "image": "products_images/Dlya-malyshej-Tort-Ramenskoe-Zhukovskiy-utochka-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00018. Категории: ДЕТСКИЕ, ДЛЯ МАЛЫШЕЙ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 20,
+    "fields": {
+      "name": "Торт шкатулка",
+      "image": "products_images/Dlya-malyshej-Tort-Ramenskoe-Zhukovskiy-shkatulka-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00019. Категории: ДЕТСКИЕ, ДЛЯ МАЛЫШЕЙ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 21,
+    "fields": {
+      "name": "Торт шоколадные мишки",
+      "image": "products_images/Dlya-malyshej-Tort-Ramenskoe-Zhukovskiy-shokoladnye-mishki-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00020. Категории: ДЕТСКИЕ, ДЛЯ МАЛЫШЕЙ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 22,
+    "fields": {
+      "name": "Торт Динозавр",
+      "image": "products_images/Malchikam-Tort-Ramenskoe-Zhukovskiy-Dinozavr-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00021. Категории: ДЕТСКИЕ, МАЛЬЧИКАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 3
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 23,
+    "fields": {
+      "name": "Торт динозавры",
+      "image": "products_images/Malchikam-Tort-Ramenskoe-Zhukovskiy-dinozavry-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00022. Категории: ДЕТСКИЕ, МАЛЬЧИКАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 3
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 24,
+    "fields": {
+      "name": "Торт железный человек",
+      "image": "products_images/Malchikam-Tort-Ramenskoe-Zhukovskiy-zheleznyj-chelovek-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00023. Категории: ДЕТСКИЕ, МАЛЬЧИКАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 3
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 25,
+    "fields": {
+      "name": "Торт железный человек квадратный",
+      "image": "products_images/Malchikam-Tort-Ramenskoe-Zhukovskiy-zheleznyj-chelovek-kvadratnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00024. Категории: ДЕТСКИЕ, МАЛЬЧИКАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 3
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 26,
+    "fields": {
+      "name": "Торт коты",
+      "image": "products_images/Malchikam-Tort-Ramenskoe-Zhukovskiy-tri-kota-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00025. Категории: ДЕТСКИЕ, МАЛЬЧИКАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 3
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 27,
+    "fields": {
+      "name": "Торт лего синий",
+      "image": "products_images/Malchikam-Tort-Ramenskoe-Zhukovskiy-lego-sinij-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00026. Категории: ДЕТСКИЕ, МАЛЬЧИКАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 3
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 28,
+    "fields": {
+      "name": "Торт Майнкрафт",
+      "image": "products_images/Malchikam-Tort-Ramenskoe-Zhukovskiy-Majnkraft-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00027. Категории: ДЕТСКИЕ, МАЛЬЧИКАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 3
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 29,
+    "fields": {
+      "name": "Торт Майнкрафт высокий",
+      "image": "products_images/Malchikam-Tort-Ramenskoe-Zhukovskiy-Majnkraft-vysokij-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00028. Категории: ДЕТСКИЕ, МАЛЬЧИКАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 3
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 30,
+    "fields": {
+      "name": "Торт Маквин",
+      "image": "products_images/Malchikam-Tort-Ramenskoe-Zhukovskiy-Makvin-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00029. Категории: ДЕТСКИЕ, МАЛЬЧИКАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 3
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 31,
+    "fields": {
+      "name": "Торт Трансформер",
+      "image": "products_images/Malchikam-Tort-Ramenskoe-Zhukovskiy-Transformer-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00030. Категории: ДЕТСКИЕ, МАЛЬЧИКАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 3
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 32,
+    "fields": {
+      "name": "Торт трансформеры",
+      "image": "products_images/Malchikam-Tort-Ramenskoe-Zhukovskiy-transformery-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00031. Категории: ДЕТСКИЕ, МАЛЬЧИКАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 3
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 33,
+    "fields": {
+      "name": "Торт божья коровка",
+      "image": "products_images/Bozhya-korovka-300x300-Tort-Ramenskoe-Zhukovskiy.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00032. Категории: ДЕТСКИЕ, НЕДОРОГИЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 4
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 34,
+    "fields": {
+      "name": "Торт жираф",
+      "image": "products_images/DETSKIE-TORTY-Tort-Ramenskoe-Zhukovskiy-zhiraf-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00033. Категории: ДЕТСКИЕ, НЕДОРОГИЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 4
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 35,
+    "fields": {
+      "name": "Торт котенок",
+      "image": "products_images/DETSKIE-TORTY-Tort-Ramenskoe-Zhukovskiy-kotenok-300x300.png",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00034. Категории: ДЕТСКИЕ, НЕДОРОГИЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 4
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 36,
+    "fields": {
+      "name": "Торт Мишка",
+      "image": "products_images/DETSKIE-TORTY-Tort-Ramenskoe-Zhukovskiy-mishka-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00035. Категории: ДЕТСКИЕ, НЕДОРОГИЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 4
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 37,
+    "fields": {
+      "name": "Торт пчелка",
+      "image": "products_images/DETSKIE-TORTY-Tort-Ramenskoe-Zhukovskiy-pchelka-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00036. Категории: ДЕТСКИЕ, НЕДОРОГИЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 4
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 38,
+    "fields": {
+      "name": "Торт с лягушкой",
+      "image": "products_images/DETSKIE-TORTY-Tort-Ramenskoe-Zhukovskiy-s-lyagushkoj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00037. Категории: ДЕТСКИЕ, НЕДОРОГИЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 4
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 39,
+    "fields": {
+      "name": "Торт с пони",
+      "image": "products_images/DETSKIE-TORTY-Tort-Ramenskoe-Zhukovskiy-s-poni-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00038. Категории: ДЕТСКИЕ, НЕДОРОГИЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 4
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 40,
+    "fields": {
+      "name": "Торт со слоником",
+      "image": "products_images/DETSKIE-TORTY-Tort-Ramenskoe-Zhukovskiy-so-slonikom-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00039. Категории: ДЕТСКИЕ, НЕДОРОГИЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 4
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 41,
+    "fields": {
+      "name": "Торт голый с ягодой",
+      "image": "products_images/YAgodnye-fruktovye-Tort-Ramenskoe-Zhukovskiy-golyj-s-yagodoj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00040. Категории: ДЕТСКИЕ, ЯГОДНЫЕ И ФРУКТОВЫЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 5
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 42,
+    "fields": {
+      "name": "Торт Мильфей ягодный",
+      "image": "products_images/YAgodnye-fruktovye-Tort-Ramenskoe-Zhukovskiy-Milfej-yagodnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00041. Категории: ДЕТСКИЕ, ЯГОДНЫЕ И ФРУКТОВЫЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 5
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 43,
+    "fields": {
+      "name": "Торт с клубникой",
+      "image": "products_images/YAgodnye-fruktovye-Tort-Ramenskoe-Zhukovskiy-s-klubnikoj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00042. Категории: ДЕТСКИЕ, ЯГОДНЫЕ И ФРУКТОВЫЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 5
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 44,
+    "fields": {
+      "name": "Торт с клубникой высокий",
+      "image": "products_images/YAgodnye-fruktovye-Tort-Ramenskoe-Zhukovskiy-s-klubnikoj-vysokij-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00043. Категории: ДЕТСКИЕ, ЯГОДНЫЕ И ФРУКТОВЫЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 5
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 45,
+    "fields": {
+      "name": "Торт с малиной",
+      "image": "products_images/YAgodnye-fruktovye-Tort-Ramenskoe-Zhukovskiy-s-malinoj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00044. Категории: ДЕТСКИЕ, ЯГОДНЫЕ И ФРУКТОВЫЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 5
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 46,
+    "fields": {
+      "name": "Торт с малиной и черникой",
+      "image": "products_images/YAgodnye-fruktovye-Tort-Ramenskoe-Zhukovskiy-s-malinoj-i-chernikoj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00045. Категории: ДЕТСКИЕ, ЯГОДНЫЕ И ФРУКТОВЫЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 5
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 47,
+    "fields": {
+      "name": "Торт с черникой",
+      "image": "products_images/YAgodnye-fruktovye-Tort-Ramenskoe-Zhukovskiy-s-chernikoj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00046. Категории: ДЕТСКИЕ, ЯГОДНЫЕ И ФРУКТОВЫЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 5
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 48,
+    "fields": {
+      "name": "Торт трехъярусный с ягодой",
+      "image": "products_images/YAgodnye-fruktovye-Tort-Ramenskoe-Zhukovskiy-trehyarusnyj-s-yagodoj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00047. Категории: ДЕТСКИЕ, ЯГОДНЫЕ И ФРУКТОВЫЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 1,
+      "subcategory": 5
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 49,
+    "fields": {
+      "name": "Торт букет цветов",
+      "image": "products_images/ZHenshhinam-Tort-Ramenskoe-Zhukovskiy-buket-czvetov-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00048. Категории: НА ДЕНЬ РОЖДЕНИЯ, ЖЕНЩИНЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 6
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 50,
+    "fields": {
+      "name": "Торт букет цветов с ягодами",
+      "image": "products_images/ZHenshhinam-Tort-Ramenskoe-Zhukovskiy-buket-czvetov-s-yagodami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00049. Категории: НА ДЕНЬ РОЖДЕНИЯ, ЖЕНЩИНЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 6
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 51,
+    "fields": {
+      "name": "Торт женщина в платье",
+      "image": "products_images/ZHenshhinam-Tort-Ramenskoe-Zhukovskiy-zhenshhina-v-plate-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00050. Категории: НА ДЕНЬ РОЖДЕНИЯ, ЖЕНЩИНЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 6
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 52,
+    "fields": {
+      "name": "Торт платье",
+      "image": "products_images/ZHenshhinam-Tort-Ramenskoe-Zhukovskiy-plate-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00051. Категории: НА ДЕНЬ РОЖДЕНИЯ, ЖЕНЩИНЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 6
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 53,
+    "fields": {
+      "name": "Торт с косметикой",
+      "image": "products_images/ZHenshhinam-Tort-Ramenskoe-Zhukovskiy-s-kosmetikoj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00052. Категории: НА ДЕНЬ РОЖДЕНИЯ, ЖЕНЩИНЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 6
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 54,
+    "fields": {
+      "name": "Торт с косметикой розовый",
+      "image": "products_images/ZHenshhinam-Tort-Ramenskoe-Zhukovskiy-s-kosmetikoj-rozovyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00053. Категории: НА ДЕНЬ РОЖДЕНИЯ, ЖЕНЩИНЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 6
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 55,
+    "fields": {
+      "name": "Торт с красными розами",
+      "image": "products_images/ZHenshhinam-Tort-Ramenskoe-Zhukovskiy-s-krasnymi-rozami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00054. Категории: НА ДЕНЬ РОЖДЕНИЯ, ЖЕНЩИНЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 6
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 56,
+    "fields": {
+      "name": "Торт с кружевом",
+      "image": "products_images/ZHenshhinam-Tort-Ramenskoe-Zhukovskiy-s-kruzhevom-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00055. Категории: НА ДЕНЬ РОЖДЕНИЯ, ЖЕНЩИНЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 6
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 57,
+    "fields": {
+      "name": "Торт с кружевом и цветами",
+      "image": "products_images/ZHenshhinam-Tort-Ramenskoe-Zhukovskiy-s-kruzhevom-i-czvetami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00056. Категории: НА ДЕНЬ РОЖДЕНИЯ, ЖЕНЩИНЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 6
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 58,
+    "fields": {
+      "name": "Торт с розами",
+      "image": "products_images/ZHenshhinam-Tort-Ramenskoe-Zhukovskiy-s-rozami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00057. Категории: НА ДЕНЬ РОЖДЕНИЯ, ЖЕНЩИНЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 6
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 59,
+    "fields": {
+      "name": "Торт с силуэтом",
+      "image": "products_images/ZHenshhinam-Tort-Ramenskoe-Zhukovskiy-s-siluetom-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00058. Категории: НА ДЕНЬ РОЖДЕНИЯ, ЖЕНЩИНЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 6
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 60,
+    "fields": {
+      "name": "Торт с силуэтом золотистый",
+      "image": "products_images/ZHenshhinam-Tort-Ramenskoe-Zhukovskiy-s-siluetom-zolotistyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00059. Категории: НА ДЕНЬ РОЖДЕНИЯ, ЖЕНЩИНЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 6
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 61,
+    "fields": {
+      "name": "Торт автомобиль",
+      "image": "products_images/Muzhchinam-Tort-Ramenskoe-Zhukovskiy-avtomobil-300x300.png",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00060. Категории: НА ДЕНЬ РОЖДЕНИЯ, МУЖЧИНЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 7
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 62,
+    "fields": {
+      "name": "Торт автомобиль пожарный",
+      "image": "products_images/Muzhchinam-Tort-Ramenskoe-Zhukovskiy-avtomobil-pozharnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00061. Категории: НА ДЕНЬ РОЖДЕНИЯ, МУЖЧИНЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 7
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 63,
+    "fields": {
+      "name": "Торт Босс молокосос",
+      "image": "products_images/Muzhchinam-Boss-molokosos-300x300-Tort-Ramenskoe-Zhukovskiy.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00062. Категории: НА ДЕНЬ РОЖДЕНИЯ, МУЖЧИНЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 7
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 64,
+    "fields": {
+      "name": "Торт Босс молокосос со звездами",
+      "image": "products_images/Muzhchinam-Tort-Ramenskoe-Zhukovskiy-Boss-molokosos-so-zvezdami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00063. Категории: НА ДЕНЬ РОЖДЕНИЯ, МУЖЧИНЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 7
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 65,
+    "fields": {
+      "name": "Торт рубашка с галстуком",
+      "image": "products_images/Muzhchinam-Tort-Ramenskoe-Zhukovskiy-rubashka-s-galstukom-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00064. Категории: НА ДЕНЬ РОЖДЕНИЯ, МУЖЧИНЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 7
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 66,
+    "fields": {
+      "name": "Торт рыбак",
+      "image": "products_images/Muzhchinam-Tort-Ramenskoe-Zhukovskiy-rybak-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00065. Категории: НА ДЕНЬ РОЖДЕНИЯ, МУЖЧИНЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 7
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 67,
+    "fields": {
+      "name": "Торт рыбаку",
+      "image": "products_images/Muzhchinam-Tort-Ramenskoe-Zhukovskiy-rybaku-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00066. Категории: НА ДЕНЬ РОЖДЕНИЯ, МУЖЧИНЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 7
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 68,
+    "fields": {
+      "name": "Торт с галстуком",
+      "image": "products_images/Muzhchinam-Tort-Ramenskoe-Zhukovskiy-s-galstukom-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00067. Категории: НА ДЕНЬ РОЖДЕНИЯ, МУЖЧИНЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 7
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 69,
+    "fields": {
+      "name": "Торт с деньгами",
+      "image": "products_images/Muzhchinam-Tort-Ramenskoe-Zhukovskiy-s-dengami-300x300.png",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00068. Категории: НА ДЕНЬ РОЖДЕНИЯ, МУЖЧИНЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 7
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 70,
+    "fields": {
+      "name": "Кремовый торт",
+      "image": "products_images/Nedorogie-Kremovyj-tort-Ramenskoe-Zhukovskiy-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00069. Категории: НА ДЕНЬ РОЖДЕНИЯ, НЕДОРОГО.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 8
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 71,
+    "fields": {
+      "name": "Кремовый торт с цветами",
+      "image": "products_images/Nedorogie-Kremovyj-tort-Ramenskoe-Zhukovskiy-s-czvetami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00070. Категории: НА ДЕНЬ РОЖДЕНИЯ, НЕДОРОГО.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 8
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 72,
+    "fields": {
+      "name": "Торт для родителей с голубями",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-dlya-roditelej-s-golubyami-300x300.png",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00071. Категории: НА ДЕНЬ РОЖДЕНИЯ, НЕДОРОГО.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 8
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 73,
+    "fields": {
+      "name": "Торт для родителей с двумя фигурками",
+      "image": "products_images/Nedorogie-Tort-Ramenskoe-Zhukovskiy-dlya-roditelej-s-dvumya-figurkami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00072. Категории: НА ДЕНЬ РОЖДЕНИЯ, НЕДОРОГО.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 8
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 74,
+    "fields": {
+      "name": "Торт для родителей с котятами",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-dlya-roditelej-s-kotyatami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00073. Категории: НА ДЕНЬ РОЖДЕНИЯ, НЕДОРОГО.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 8
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 75,
+    "fields": {
+      "name": "Торт для родителей с фигурками двухъярусный",
+      "image": "products_images/Nedorogie-Tort-Ramenskoe-Zhukovskiy-dlya-roditelej-s-figurkami-dvuhyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00074. Категории: НА ДЕНЬ РОЖДЕНИЯ, НЕДОРОГО.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 8
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 76,
+    "fields": {
+      "name": "Торт ореховый",
+      "image": "products_images/Nedorogie-Tort-Ramenskoe-Zhukovskiy-orehovyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00075. Категории: НА ДЕНЬ РОЖДЕНИЯ, НЕДОРОГО.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 8
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 77,
+    "fields": {
+      "name": "Торт ореховый с шоколадной обсыпкой",
+      "image": "products_images/Nedorogie-Tort-Ramenskoe-Zhukovskiy-orehovyj-s-shokoladnoj-obsypkoj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00076. Категории: НА ДЕНЬ РОЖДЕНИЯ, НЕДОРОГО.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 8
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 78,
+    "fields": {
+      "name": "Торт с коржами",
+      "image": "products_images/Nedorogie-Tort-Ramenskoe-Zhukovskiy-s-korzhami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00077. Категории: НА ДЕНЬ РОЖДЕНИЯ, НЕДОРОГО.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 8
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 79,
+    "fields": {
+      "name": "Торт с коржами и фруктами",
+      "image": "products_images/Nedorogie-Tort-Ramenskoe-Zhukovskiy-s-korzhami-i-fruktami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00078. Категории: НА ДЕНЬ РОЖДЕНИЯ, НЕДОРОГО.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 8
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 80,
+    "fields": {
+      "name": "Торт с кремовыми розами",
+      "image": "products_images/Nedorogie-Tort-Ramenskoe-Zhukovskiy-s-kremovymi-rozami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00079. Категории: НА ДЕНЬ РОЖДЕНИЯ, НЕДОРОГО.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 8
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 81,
+    "fields": {
+      "name": "Торт с кремовыми розами трехъярусный",
+      "image": "products_images/Nedorogie-Tort-Ramenskoe-Zhukovskiy-s-kremovymi-rozami-trehyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00080. Категории: НА ДЕНЬ РОЖДЕНИЯ, НЕДОРОГО.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 8
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 82,
+    "fields": {
+      "name": "Торт голый с ягодой",
+      "image": "products_images/Torty-s-fruktami-i-yagodami-Tort-Ramenskoe-Zhukovskiy-golyj-s-yagodoj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00081. Категории: НА ДЕНЬ РОЖДЕНИЯ, С ЯГОДАМИ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 9
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 83,
+    "fields": {
+      "name": "Торт с ежевикой",
+      "image": "products_images/Torty-Ramenskoe-Zhukovskiy-s-fruktami-i-yagodami-Tort-s-ezhevikoj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00082. Категории: НА ДЕНЬ РОЖДЕНИЯ, С ЯГОДАМИ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 9
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 84,
+    "fields": {
+      "name": "Торт с ежевикой трехъярусный",
+      "image": "products_images/Torty-Ramenskoe-Zhukovskiy-s-fruktami-i-yagodami-Tort-s-ezhevikoj-trehyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00083. Категории: НА ДЕНЬ РОЖДЕНИЯ, С ЯГОДАМИ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 9
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 85,
+    "fields": {
+      "name": "Торт с клубникой",
+      "image": "products_images/Torty-Ramenskoe-Zhukovskiy-s-fruktami-i-yagodami-Tort-s-klubnikoj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00084. Категории: НА ДЕНЬ РОЖДЕНИЯ, С ЯГОДАМИ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 9
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 86,
+    "fields": {
+      "name": "Торт с клубникой белый",
+      "image": "products_images/Torty-s-fruktami-i-yagodami-Tort-Ramenskoe-Zhukovskiy-s-klubnikoj-belyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00085. Категории: НА ДЕНЬ РОЖДЕНИЯ, С ЯГОДАМИ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 9
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 87,
+    "fields": {
+      "name": "Торт золотой ключик",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-zolotoj-klyuchik-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00086. Категории: НА ДЕНЬ РОЖДЕНИЯ, СЕМЬЯ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 10
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 88,
+    "fields": {
+      "name": "Торт с розами семейный",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-s-rozami-semejnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00087. Категории: НА ДЕНЬ РОЖДЕНИЯ, СЕМЬЯ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 10
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 89,
+    "fields": {
+      "name": "Торт шоколадный с белым кремом",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-shokoladnyj-s-belym-kremom-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00088. Категории: НА ДЕНЬ РОЖДЕНИЯ, СЕМЬЯ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 10
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 90,
+    "fields": {
+      "name": "Торт шоколадный семейный",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-shokoladnyj-semejnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00089. Категории: НА ДЕНЬ РОЖДЕНИЯ, СЕМЬЯ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 10
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 91,
+    "fields": {
+      "name": "Торт ангел",
+      "image": "products_images/Eksklyuzivnye-Tort-Ramenskoe-Zhukovskiy-angel-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00090. Категории: НА ДЕНЬ РОЖДЕНИЯ, ЭКСКЛЮЗИВНЫЕ (VIP).",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 11
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 92,
+    "fields": {
+      "name": "Торт золотой",
+      "image": "products_images/Eksklyuzivnye-Tort-Ramenskoe-Zhukovskiy-zolotoj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00091. Категории: НА ДЕНЬ РОЖДЕНИЯ, ЭКСКЛЮЗИВНЫЕ (VIP).",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 11
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 93,
+    "fields": {
+      "name": "Торт маме",
+      "image": "products_images/Eksklyuzivnye-Tort-Ramenskoe-Zhukovskiy-mame-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00092. Категории: НА ДЕНЬ РОЖДЕНИЯ, ЭКСКЛЮЗИВНЫЕ (VIP).",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 11
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 94,
+    "fields": {
+      "name": "Торт маме с сердцем",
+      "image": "products_images/Eksklyuzivnye-Tort-Ramenskoe-Zhukovskiy-mame-s-serdczem-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00093. Категории: НА ДЕНЬ РОЖДЕНИЯ, ЭКСКЛЮЗИВНЫЕ (VIP).",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 11
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 95,
+    "fields": {
+      "name": "Торт русская красавица",
+      "image": "products_images/Eksklyuzivnye-Tort-Ramenskoe-Zhukovskiy-russkaya-krasavicza-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00094. Категории: НА ДЕНЬ РОЖДЕНИЯ, ЭКСКЛЮЗИВНЫЕ (VIP).",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 11
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 96,
+    "fields": {
+      "name": "Торт русская красавица с цветами",
+      "image": "products_images/Eksklyuzivnye-Tort-Ramenskoe-Zhukovskiy-russkaya-krasavicza-s-czvetami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00095. Категории: НА ДЕНЬ РОЖДЕНИЯ, ЭКСКЛЮЗИВНЫЕ (VIP).",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 11
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 97,
+    "fields": {
+      "name": "Торт сердце",
+      "image": "products_images/Eksklyuzivnye-Tort-Ramenskoe-Zhukovskiy-serdcze-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00096. Категории: НА ДЕНЬ РОЖДЕНИЯ, ЭКСКЛЮЗИВНЫЕ (VIP).",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 11
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 98,
+    "fields": {
+      "name": "Торт сердце с цветами",
+      "image": "products_images/Eksklyuzivnye-Tort-Ramenskoe-Zhukovskiy-serdcze-s-czvetami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00097. Категории: НА ДЕНЬ РОЖДЕНИЯ, ЭКСКЛЮЗИВНЫЕ (VIP).",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 2,
+      "subcategory": 11
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 99,
+    "fields": {
+      "name": "Торт на юбилей 30 лет",
+      "image": "products_images/Muzhchinam-Tort-Ramenskoe-Zhukovskiy-na-yubilej-30-let-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00098. Категории: НА ЮБИЛЕЙ, МУЖЧИНАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 3,
+      "subcategory": 12
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 100,
+    "fields": {
+      "name": "Торт на юбилей 30 лет",
+      "image": "products_images/Muzhchinam-Tort-Ramenskoe-Zhukovskiy-na-yubilej-30-let-s-yagodami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00099. Категории: НА ЮБИЛЕЙ, МУЖЧИНАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 3,
+      "subcategory": 12
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 101,
+    "fields": {
+      "name": "Торт на юбилей 50 лет",
+      "image": "products_images/Muzhchinam-Tort-Ramenskoe-Zhukovskiy-na-yubilej-50-let-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00100. Категории: НА ЮБИЛЕЙ, МУЖЧИНАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 3,
+      "subcategory": 12
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 102,
+    "fields": {
+      "name": "Торт на юбилей 50 лет белый",
+      "image": "products_images/Muzhchinam-Tort-Ramenskoe-Zhukovskiy-na-yubilej-50-let-s-shokoladom-300x300.jpeg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00101. Категории: НА ЮБИЛЕЙ, МУЖЧИНАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 3,
+      "subcategory": 12
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 103,
+    "fields": {
+      "name": "Торт на юбилей 55 лет",
+      "image": "products_images/Muzhchinam-Tort-Ramenskoe-Zhukovskiy-na-yubilej-55-let-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00102. Категории: НА ЮБИЛЕЙ, МУЖЧИНАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 3,
+      "subcategory": 12
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 104,
+    "fields": {
+      "name": "Торт на юбилей 55 лет с ягодами",
+      "image": "products_images/Muzhchinam-Tort-Ramenskoe-Zhukovskiy-na-yubilej-55-let-s-yagodami-300x300.png",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00103. Категории: НА ЮБИЛЕЙ, МУЖЧИНАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 3,
+      "subcategory": 12
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 105,
+    "fields": {
+      "name": "Торт на юбилей 60 лет",
+      "image": "products_images/Muzhchinam-Tort-Ramenskoe-Zhukovskiy-na-yubilej-60-let-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00104. Категории: НА ЮБИЛЕЙ, МУЖЧИНАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 3,
+      "subcategory": 12
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 106,
+    "fields": {
+      "name": "Торт на юбилей 60 лет двухъярусный",
+      "image": "products_images/Muzhchinam-Tort-Ramenskoe-Zhukovskiy-na-yubilej-60-let-dvuhyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00105. Категории: НА ЮБИЛЕЙ, МУЖЧИНАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 3,
+      "subcategory": 12
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 107,
+    "fields": {
+      "name": "Торт на юбилей 70 лет",
+      "image": "products_images/Muzhchinam-Tort-Ramenskoe-Zhukovskiy-na-yubilej-70-let-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00106. Категории: НА ЮБИЛЕЙ, МУЖЧИНАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 3,
+      "subcategory": 12
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 108,
+    "fields": {
+      "name": "Торт на юбилей 30 лет",
+      "image": "products_images/ZHenshhinam-Tort-Ramenskoe-Zhukovskiy-na-yubilej-30-let-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00107. Категории: НА ЮБИЛЕЙ, ЖЕНЩИНАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 3,
+      "subcategory": 13
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 109,
+    "fields": {
+      "name": "Торт на юбилей 35 лет",
+      "image": "products_images/ZHenshhinam-Tort-Ramenskoe-Zhukovskiy-na-yubilej-35-let-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00108. Категории: НА ЮБИЛЕЙ, ЖЕНЩИНАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 3,
+      "subcategory": 13
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 110,
+    "fields": {
+      "name": "Торт на юбилей 40 лет",
+      "image": "products_images/ZHenshhinam-Tort-Ramenskoe-Zhukovskiy-na-yubilej-40-let-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00109. Категории: НА ЮБИЛЕЙ, ЖЕНЩИНАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 3,
+      "subcategory": 13
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 111,
+    "fields": {
+      "name": "Торт на юбилей 40 лет трехъярусный",
+      "image": "products_images/ZHenshhinam-Tort-Ramenskoe-Zhukovskiy-na-yubilej-40-let-trehyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00110. Категории: НА ЮБИЛЕЙ, ЖЕНЩИНАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 3,
+      "subcategory": 13
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 112,
+    "fields": {
+      "name": "Торт на юбилей 45 лет в виде цифр",
+      "image": "products_images/ZHenshhinam-Tort-Ramenskoe-Zhukovskiy-na-yubilej-45-let-v-vide-czifr-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00111. Категории: НА ЮБИЛЕЙ, ЖЕНЩИНАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 3,
+      "subcategory": 13
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 113,
+    "fields": {
+      "name": "Торт на юбилей 50 лет",
+      "image": "products_images/ZHenshhinam-Tort-Ramenskoe-Zhukovskiy-na-yubilej-50-let-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00112. Категории: НА ЮБИЛЕЙ, ЖЕНЩИНАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 3,
+      "subcategory": 13
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 114,
+    "fields": {
+      "name": "Торт на юбилей 50 лет трехъярусный",
+      "image": "products_images/ZHenshhinam-Tort-Ramenskoe-Zhukovskiy-na-yubilej-50-let-trehyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00113. Категории: НА ЮБИЛЕЙ, ЖЕНЩИНАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 3,
+      "subcategory": 13
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 115,
+    "fields": {
+      "name": "Торт на юбилей 55 лет",
+      "image": "products_images/ZHenshhinam-Tort-Ramenskoe-Zhukovskiy-na-yubilej-55-let-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00114. Категории: НА ЮБИЛЕЙ, ЖЕНЩИНАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 3,
+      "subcategory": 13
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 116,
+    "fields": {
+      "name": "Торт на юбилей 55 лет в виде цифр",
+      "image": "products_images/ZHenshhinam-Tort-Ramenskoe-Zhukovskiy-na-yubilej-55-let-v-vide-czifr-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00115. Категории: НА ЮБИЛЕЙ, ЖЕНЩИНАМ.",
+      "price": "1600.00",
+      "quantity": 0,
+      "category": 3,
+      "subcategory": 13
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 117,
+    "fields": {
+      "name": "Торт на юбилей 60 лет",
+      "image": "products_images/ZHenshhinam-Tort-Ramenskoe-Zhukovskiy-na-yubilej-60-let-300x300.png",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00116. Категории: НА ЮБИЛЕЙ, ЖЕНЩИНАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 3,
+      "subcategory": 13
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 118,
+    "fields": {
+      "name": "Торт на юбилей 60 лет с фигуркой",
+      "image": "products_images/ZHenshhinam-Tort-Ramenskoe-Zhukovskiy-na-yubilej-60-let-s-figurkoj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00117. Категории: НА ЮБИЛЕЙ, ЖЕНЩИНАМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 3,
+      "subcategory": 13
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 119,
+    "fields": {
+      "name": "Белый торт из мастики",
+      "image": "products_images/Deshevye-Belyj-tort-Ramenskoe-Zhukovskiy-iz-mastiki-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00118. Категории: НА ЮБИЛЕЙ, ДЕШЕВЫЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 3,
+      "subcategory": 14
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 120,
+    "fields": {
+      "name": "Белый торт из мастики с цветами",
+      "image": "products_images/Deshevye-Belyj-tort-Ramenskoe-Zhukovskiy-iz-mastiki-s-czvetami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00119. Категории: НА ЮБИЛЕЙ, ДЕШЕВЫЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 3,
+      "subcategory": 14
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 121,
+    "fields": {
+      "name": "Торт на юбилей с розами",
+      "image": "products_images/Deshevye-Tort-Ramenskoe-Zhukovskiy-na-yubilej-s-rozami-300x300.png",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00120. Категории: НА ЮБИЛЕЙ, ДЕШЕВЫЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 3,
+      "subcategory": 14
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 122,
+    "fields": {
+      "name": "Торт на юбилей с цветам",
+      "image": "products_images/Deshevye-Tort-Ramenskoe-Zhukovskiy-na-yubilej-s-czvetami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00121. Категории: НА ЮБИЛЕЙ, ДЕШЕВЫЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 3,
+      "subcategory": 14
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 123,
+    "fields": {
+      "name": "Торт слоеный",
+      "image": "products_images/Deshevye-Tort-Ramenskoe-Zhukovskiy-sloenyj-300x300.png",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00122. Категории: НА ЮБИЛЕЙ, ДЕШЕВЫЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 3,
+      "subcategory": 14
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 124,
+    "fields": {
+      "name": "Торт слоеный с орехами",
+      "image": "products_images/Deshevye-Tort-Ramenskoe-Zhukovskiy-sloenyj-s-orehami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00123. Категории: НА ЮБИЛЕЙ, ДЕШЕВЫЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 3,
+      "subcategory": 14
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 125,
+    "fields": {
+      "name": "Юбилейный кремовый торт",
+      "image": "products_images/Deshevye-YUbilejnyj-kremovyj-tort-Ramenskoe-Zhukovskiy-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00124. Категории: НА ЮБИЛЕЙ, ДЕШЕВЫЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 3,
+      "subcategory": 14
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 126,
+    "fields": {
+      "name": "Юбилейный кремовый торт с цветами",
+      "image": "products_images/Deshevye-YUbilejnyj-kremovyj-tort-Ramenskoe-Zhukovskiy-s-czvetami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00125. Категории: НА ЮБИЛЕЙ, ДЕШЕВЫЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 3,
+      "subcategory": 14
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 127,
+    "fields": {
+      "name": "Торт свадебный одноярусный красный",
+      "image": "products_images/Klassicheskie-Tort-Ramenskoe-Zhukovskiy-svadebnyj-odnoyarusnyj-s-czvetami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00126. Категории: СВАДЕБНЫЕ, КЛАССИЧЕСКИЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 15
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 128,
+    "fields": {
+      "name": "Торт свадебный квадратный трехъярусный",
+      "image": "products_images/Klassicheskie-Tort-Ramenskoe-Zhukovskiy-svadebnyj-kvadratnyj-trehyarusnyj-300x300.png",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00127. Категории: СВАДЕБНЫЕ, КЛАССИЧЕСКИЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 15
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 129,
+    "fields": {
+      "name": "Торт свадебный квадратный четырехъярусный",
+      "image": "products_images/Klassicheskie-Tort-Ramenskoe-Zhukovskiy-svadebnyj-kvadratnyj-chetyrehyarusnyj-1-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00128. Категории: СВАДЕБНЫЕ, КЛАССИЧЕСКИЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 15
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 130,
+    "fields": {
+      "name": "Торт свадебный квадратный четырехъярусный с розами",
+      "image": "products_images/Klassicheskie-Tort-Ramenskoe-Zhukovskiy-svadebnyj-kvadratnyj-chetyrehyarusnyj-s-rozami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00129. Категории: СВАДЕБНЫЕ, КЛАССИЧЕСКИЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 15
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 131,
+    "fields": {
+      "name": "Торт свадебный кремовый",
+      "image": "products_images/Klassicheskie-Tort-Ramenskoe-Zhukovskiy-svadebnyj-kremovyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00130. Категории: СВАДЕБНЫЕ, КЛАССИЧЕСКИЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 15
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 132,
+    "fields": {
+      "name": "Торт свадебный кремовый трехъярусный с лебедями",
+      "image": "products_images/Klassicheskie-Tort-Ramenskoe-Zhukovskiy-svadebnyj-kremovyj-trehyarusnyj-s-lebedyami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00131. Категории: СВАДЕБНЫЕ, КЛАССИЧЕСКИЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 15
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 133,
+    "fields": {
+      "name": "Торт свадебный кремовый трехъярусный",
+      "image": "products_images/Klassicheskie-Tort-Ramenskoe-Zhukovskiy-svadebnyj-kremovyj-trehyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00132. Категории: СВАДЕБНЫЕ, КЛАССИЧЕСКИЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 15
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 134,
+    "fields": {
+      "name": "Торт свадебный одноярусный",
+      "image": "products_images/Klassicheskie-Tort-Ramenskoe-Zhukovskiy-svadebnyj-odnoyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00133. Категории: СВАДЕБНЫЕ, КЛАССИЧЕСКИЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 15
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 135,
+    "fields": {
+      "name": "Торт свадебный одноярусный",
+      "image": "products_images/Klassicheskie-Tort-Ramenskoe-Zhukovskiy-svadebnyj-s-kolczami-dvuhyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00134. Категории: СВАДЕБНЫЕ, КЛАССИЧЕСКИЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 15
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 136,
+    "fields": {
+      "name": "Торт свадебный одноярусный с сердечками",
+      "image": "products_images/Klassicheskie-Tort-Ramenskoe-Zhukovskiy-svadebnyj-odnoyarusnyj-s-serdechkami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00135. Категории: СВАДЕБНЫЕ, КЛАССИЧЕСКИЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 15
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 137,
+    "fields": {
+      "name": "Торт свадебный с кольцами и кружевами",
+      "image": "products_images/Klassicheskie-Tort-Ramenskoe-Zhukovskiy-svadebnyj-s-kolczami-i-kruzhevami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00136. Категории: СВАДЕБНЫЕ, КЛАССИЧЕСКИЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 15
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 138,
+    "fields": {
+      "name": "Торт свадебный два сердца",
+      "image": "products_images/Malenkie-Tort-Ramenskoe-Zhukovskiy-svadebnyj-dva-serdcza-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00137. Категории: СВАДЕБНЫЕ, МАЛЕНЬКИЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 16
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 139,
+    "fields": {
+      "name": "Торт свадебный два сердца с фигурками",
+      "image": "products_images/malenkie-Tort-Ramenskoe-Zhukovskiy-svadebnyj-dva-serdcza-s-figurkami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00138. Категории: СВАДЕБНЫЕ, МАЛЕНЬКИЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 16
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 140,
+    "fields": {
+      "name": "Торт свадебный два сердца трехъярусный",
+      "image": "products_images/Malenkie-Tort-Ramenskoe-Zhukovskiy-svadebnyj-dva-serdcza-trehyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00139. Категории: СВАДЕБНЫЕ, МАЛЕНЬКИЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 16
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 141,
+    "fields": {
+      "name": "Торт свадебный с лебедями",
+      "image": "products_images/Malenkie-Tort-Ramenskoe-Zhukovskiy-svadebnyj-s-lebedyami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00140. Категории: СВАДЕБНЫЕ, МАЛЕНЬКИЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 16
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 142,
+    "fields": {
+      "name": "Торт свадебный с лебедями в виде сердца",
+      "image": "products_images/Malenkie-Tort-Ramenskoe-Zhukovskiy-svadebnyj-s-lebedyami-v-vide-serdcza-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00141. Категории: СВАДЕБНЫЕ, МАЛЕНЬКИЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 16
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 143,
+    "fields": {
+      "name": "Торт свадебный с лебедями и кольцами",
+      "image": "products_images/Malenkie-Tort-Ramenskoe-Zhukovskiy-svadebnyj-s-lebedyami-i-kolczami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00142. Категории: СВАДЕБНЫЕ, МАЛЕНЬКИЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 16
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 144,
+    "fields": {
+      "name": "Торт свадебный с сердцем и стрелой двухъярусный",
+      "image": "products_images/Malenkie-Tort-Ramenskoe-Zhukovskiy-svadebnyj-s-serdczem-i-streloj-dvuhyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00143. Категории: СВАДЕБНЫЕ, МАЛЕНЬКИЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 16
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 145,
+    "fields": {
+      "name": "Торт свадебный с сердцем и стрелой фигурный",
+      "image": "products_images/Malenkie-Tort-Ramenskoe-Zhukovskiy-svadebnyj-s-serdczem-i-streloj-figurnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00144. Категории: СВАДЕБНЫЕ, МАЛЕНЬКИЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 16
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 146,
+    "fields": {
+      "name": "Торт свадебный с сердцем стрелой и розами",
+      "image": "products_images/Malenkie-Tort-Ramenskoe-Zhukovskiy-svadebnyj-s-serdczem-streloj-i-rozami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00145. Категории: СВАДЕБНЫЕ, МАЛЕНЬКИЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 16
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 147,
+    "fields": {
+      "name": "Торт свадебный сердце и кольца",
+      "image": "products_images/Malenkie-Tort-Ramenskoe-Zhukovskiy-svadebnyj-serdcze-i-kolcza-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00146. Категории: СВАДЕБНЫЕ, МАЛЕНЬКИЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 16
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 148,
+    "fields": {
+      "name": "Торт на годовщину 10 лет",
+      "image": "products_images/SVADEBNYE-Tort-Ramenskoe-Zhukovskiy-na-godovshhinu-10-let-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00147. Категории: СВАДЕБНЫЕ, НА ГОДОВЩИНУ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 17
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 149,
+    "fields": {
+      "name": "Торт на годовщину 20 лет трехъярусный",
+      "image": "products_images/SVADEBNYE-Tort-Ramenskoe-Zhukovskiy-na-godovshhinu-20-let-trehyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00148. Категории: СВАДЕБНЫЕ, НА ГОДОВЩИНУ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 17
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 150,
+    "fields": {
+      "name": "Торт на годовщину 50 лет трехъярусный",
+      "image": "products_images/SVADEBNYE-Tort-Ramenskoe-Zhukovskiy-na-godovshhinu-50-let-trehyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00149. Категории: СВАДЕБНЫЕ, НА ГОДОВЩИНУ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 17
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 151,
+    "fields": {
+      "name": "Торт на годовщину двухъярусный",
+      "image": "products_images/SVADEBNYE-Tort-Ramenskoe-Zhukovskiy-na-godovshhinu-dvuhyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00150. Категории: СВАДЕБНЫЕ, НА ГОДОВЩИНУ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 17
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 152,
+    "fields": {
+      "name": "Торт на годовщину с лебедями",
+      "image": "products_images/SVADEBNYE-Tort-Ramenskoe-Zhukovskiy-na-godovshhinu-s-lebedyami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00151. Категории: СВАДЕБНЫЕ, НА ГОДОВЩИНУ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 17
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 153,
+    "fields": {
+      "name": "Торт на годовщину с цветами",
+      "image": "products_images/SVADEBNYE-Tort-Ramenskoe-Zhukovskiy-na-godovshhinu-s-czvetami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00152. Категории: СВАДЕБНЫЕ, НА ГОДОВЩИНУ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 17
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 154,
+    "fields": {
+      "name": "Торт на годовщину трехъярусный",
+      "image": "products_images/SVADEBNYE-Tort-Ramenskoe-Zhukovskiy-na-godovshhinu-trehyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00153. Категории: СВАДЕБНЫЕ, НА ГОДОВЩИНУ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 17
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 155,
+    "fields": {
+      "name": "Торт на годовщину трехъярусный с розами",
+      "image": "products_images/SVADEBNYE-Tort-Ramenskoe-Zhukovskiy-na-godovshhinu-trehyarusnyj-s-rozami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00154. Категории: СВАДЕБНЫЕ, НА ГОДОВЩИНУ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 17
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 156,
+    "fields": {
+      "name": "Торт на девичник",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-na-devichnik-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00155. Категории: СВАДЕБНЫЕ, НА ДЕВИЧНИК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 18
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 157,
+    "fields": {
+      "name": "Торт на девичник с платьями",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-na-devichnik-s-platyami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00156. Категории: СВАДЕБНЫЕ, НА ДЕВИЧНИК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 18
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 158,
+    "fields": {
+      "name": "Торт на девичник с сердечками",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-na-devichnik-s-serdechkami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00157. Категории: СВАДЕБНЫЕ, НА ДЕВИЧНИК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 18
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 159,
+    "fields": {
+      "name": "Торт на девичник с шестом",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-na-devichnik-s-shestom-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00158. Категории: СВАДЕБНЫЕ, НА ДЕВИЧНИК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 18
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 160,
+    "fields": {
+      "name": "Торт на девичник торс с бабочкой",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-na-devichnik-tors-s-babochkoj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00159. Категории: СВАДЕБНЫЕ, НА ДЕВИЧНИК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 18
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 161,
+    "fields": {
+      "name": "Торт на девичник трехъярусный",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-na-devichnik-trehyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00160. Категории: СВАДЕБНЫЕ, НА ДЕВИЧНИК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 18
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 162,
+    "fields": {
+      "name": "Торт на девичник шанель",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-na-devichnik-shanel-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00161. Категории: СВАДЕБНЫЕ, НА ДЕВИЧНИК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 18
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 163,
+    "fields": {
+      "name": "Торт на девичник с шоколадом",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-na-devichnik-dvuhyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00162. Категории: СВАДЕБНЫЕ, НА ДЕВИЧНИК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 18
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 164,
+    "fields": {
+      "name": "Торт авто",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-mashina-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00163. Категории: СВАДЕБНЫЕ, НА МАЛЬЧИШНИК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 19
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 165,
+    "fields": {
+      "name": "Торт на мальчишник",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-na-malchishnik-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00164. Категории: СВАДЕБНЫЕ, НА МАЛЬЧИШНИК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 19
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 166,
+    "fields": {
+      "name": "Торт на мальчишник бюст в камуфляже",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-na-malchishnik-byust-v-kamuflyazhe-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00165. Категории: СВАДЕБНЫЕ, НА МАЛЬЧИШНИК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 19
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 167,
+    "fields": {
+      "name": "Торт на мальчишник бюст в красном",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-na-malchishnik-byust-v-krasnom-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00166. Категории: СВАДЕБНЫЕ, НА МАЛЬЧИШНИК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 19
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 168,
+    "fields": {
+      "name": "Торт на мальчишник бюст в красном",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-na-malchishnik-byust-v-krasnom-300x300.png",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00167. Категории: СВАДЕБНЫЕ, НА МАЛЬЧИШНИК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 19
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 169,
+    "fields": {
+      "name": "Торт на мальчишник бюст в купальнике",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-na-malchishnik-byust-v-kupalnike-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00168. Категории: СВАДЕБНЫЕ, НА МАЛЬЧИШНИК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 19
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 170,
+    "fields": {
+      "name": "Торт на мальчишник девушка в ванной",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-na-malchishnik-devushka-v-vannoj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00169. Категории: СВАДЕБНЫЕ, НА МАЛЬЧИШНИК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 19
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 171,
+    "fields": {
+      "name": "Торт на мальчишник девушки танцуют",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-na-malchishnik-devushki-tanczuyut-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00170. Категории: СВАДЕБНЫЕ, НА МАЛЬЧИШНИК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 19
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 172,
+    "fields": {
+      "name": "Торт букет",
+      "image": "products_images/S-czvetami-Tort-Ramenskoe-Zhukovskiy-buket-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00171. Категории: СВАДЕБНЫЕ, С ЦВЕТАМИ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 21
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 173,
+    "fields": {
+      "name": "Торт букет из роз",
+      "image": "products_images/S-czvetami-Tort-Ramenskoe-Zhukovskiy-buket-iz-roz-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00172. Категории: СВАДЕБНЫЕ, С ЦВЕТАМИ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 21
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 174,
+    "fields": {
+      "name": "Торт букет с бабочками",
+      "image": "products_images/S-czvetami-Tort-Ramenskoe-Zhukovskiy-buket-s-babochkami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00173. Категории: СВАДЕБНЫЕ, С ЦВЕТАМИ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 21
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 175,
+    "fields": {
+      "name": "Торт с вафельными цветами",
+      "image": "products_images/S-czvetami-Tort-Ramenskoe-Zhukovskiy-s-vafelnymi-czvetami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00174. Категории: СВАДЕБНЫЕ, С ЦВЕТАМИ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 21
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 176,
+    "fields": {
+      "name": "Торт с вафельными цветами и бабочками трехъярусный",
+      "image": "products_images/S-czvetami-Tort-Ramenskoe-Zhukovskiy-s-vafelnymi-czvetami-i-babochkami-trehyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00175. Категории: СВАДЕБНЫЕ, С ЦВЕТАМИ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 21
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 177,
+    "fields": {
+      "name": "Торт с вафельными цветами трехъярусный",
+      "image": "products_images/S-czvetami-Tort-Ramenskoe-Zhukovskiy-s-vafelnymi-czvetami-trehyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00176. Категории: СВАДЕБНЫЕ, С ЦВЕТАМИ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 21
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 178,
+    "fields": {
+      "name": "Торт с живыми цветами двухъярусный",
+      "image": "products_images/S-czvetami-Tort-Ramenskoe-Zhukovskiy-s-zhivymi-czvetami-dvuhyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00177. Категории: СВАДЕБНЫЕ, С ЦВЕТАМИ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 21
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 179,
+    "fields": {
+      "name": "Торт с живыми цветами четырехъярусный",
+      "image": "products_images/S-czvetami-Tort-Ramenskoe-Zhukovskiy-s-zhivymi-czvetami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00178. Категории: СВАДЕБНЫЕ, С ЦВЕТАМИ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 21
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 180,
+    "fields": {
+      "name": "Торт с сахарными цветами",
+      "image": "products_images/S-czvetami-Tort-Ramenskoe-Zhukovskiy-s-saharnymi-czvetami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00179. Категории: СВАДЕБНЫЕ, С ЦВЕТАМИ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 21
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 181,
+    "fields": {
+      "name": "Торт с сахарными цветами в корзинке",
+      "image": "products_images/S-czvetami-Tort-Ramenskoe-Zhukovskiy-s-saharnymi-czvetami-v-korzinke-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00180. Категории: СВАДЕБНЫЕ, С ЦВЕТАМИ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 21
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 182,
+    "fields": {
+      "name": "Торт с сахарными цветами двухъярусный",
+      "image": "products_images/S-czvetami-Tort-Ramenskoe-Zhukovskiy-s-saharnymi-czvetami-dvuhyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00181. Категории: СВАДЕБНЫЕ, С ЦВЕТАМИ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 21
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 183,
+    "fields": {
+      "name": "Торт с цветами",
+      "image": "products_images/S-czvetami-Tort-Ramenskoe-Zhukovskiy-s-zhivymi-czvetami-trehyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00182. Категории: СВАДЕБНЫЕ, С ЦВЕТАМИ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 21
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 184,
+    "fields": {
+      "name": "Торт двухярусный с клубникой",
+      "image": "products_images/s-yagodami-Tort-Ramenskoe-Zhukovskiy-dvuhyarusnyj-s-klubnikoj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00183. Категории: СВАДЕБНЫЕ, ЯГОДНЫЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 22
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 185,
+    "fields": {
+      "name": "Торт двухярусный с клубникой и вишней",
+      "image": "products_images/s-yagodami-Tort-Ramenskoe-Zhukovskiy-dvuhyarusnyj-s-klubnikoj-i-vishnej-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00184. Категории: СВАДЕБНЫЕ, ЯГОДНЫЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 22
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 186,
+    "fields": {
+      "name": "Торт корзина с ягодой и бабочками",
+      "image": "products_images/s-yagodami-Tort-Ramenskoe-Zhukovskiy-korzina-s-yagodoj-i-babochkami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00185. Категории: СВАДЕБНЫЕ, ЯГОДНЫЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 22
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 187,
+    "fields": {
+      "name": "Торт с ежевикой голубикой и рожком",
+      "image": "products_images/s-yagodami-Tort-Ramenskoe-Zhukovskiy-s-ezhevikoj-golubikoj-i-rozhkom-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00186. Категории: СВАДЕБНЫЕ, ЯГОДНЫЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 22
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 188,
+    "fields": {
+      "name": "Торт с ежевикой и голубикой",
+      "image": "products_images/s-yagodami-Tort-Ramenskoe-Zhukovskiy-s-ezhevikoj-i-golubikoj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00187. Категории: СВАДЕБНЫЕ, ЯГОДНЫЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 22
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 189,
+    "fields": {
+      "name": "Торт с клубникой",
+      "image": "products_images/s-yagodami-Tort-Ramenskoe-Zhukovskiy-s-klubnikoj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00188. Категории: СВАДЕБНЫЕ, ЯГОДНЫЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 22
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 190,
+    "fields": {
+      "name": "Торт с клубникой и малиной",
+      "image": "products_images/s-yagodami-Tort-Ramenskoe-Zhukovskiy-s-klubnikoj-i-malinoj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00189. Категории: СВАДЕБНЫЕ, ЯГОДНЫЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 22
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 191,
+    "fields": {
+      "name": "Торт с малиной",
+      "image": "products_images/s-yagodami-Tort-Ramenskoe-Zhukovskiy-s-malinoj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00190. Категории: СВАДЕБНЫЕ, ЯГОДНЫЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 22
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 192,
+    "fields": {
+      "name": "Торт с малиной и орехами",
+      "image": "products_images/s-yagodami-Tort-Ramenskoe-Zhukovskiy-s-malinoj-i-orehami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00191. Категории: СВАДЕБНЫЕ, ЯГОДНЫЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 22
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 193,
+    "fields": {
+      "name": "Торт с ягодами и шоколадом трехъярусный",
+      "image": "products_images/s-yagodami-Tort-Ramenskoe-Zhukovskiy-s-yagodami-i-shokoladom-trehyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00192. Категории: СВАДЕБНЫЕ, ЯГОДНЫЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 22
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 194,
+    "fields": {
+      "name": "Торт трёхярусный с розами",
+      "image": "products_images/s-yagodami-Tort-Ramenskoe-Zhukovskiy-tryohyarusnyj-s-rozami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00193. Категории: СВАДЕБНЫЕ, ЯГОДНЫЕ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 22
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 195,
+    "fields": {
+      "name": "Торт свадебный двухъярусный",
+      "image": "products_images/Eksklyuzivnye-Tort-Ramenskoe-Zhukovskiy-svadebnyj-dvuhyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00194. Категории: СВАДЕБНЫЕ, ЭКСКЛЮЗИВНЫЕ (ВИП).",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 23
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 196,
+    "fields": {
+      "name": "Торт свадебный двухъярусный с кольцами",
+      "image": "products_images/Eksklyuzivnye-Tort-Ramenskoe-Zhukovskiy-svadebnyj-dvuhyarusnyj-s-kolczami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00195. Категории: СВАДЕБНЫЕ, ЭКСКЛЮЗИВНЫЕ (ВИП).",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 23
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 197,
+    "fields": {
+      "name": "Торт свадебный двухъярусный с цветами",
+      "image": "products_images/Eksklyuzivnye-Tort-Ramenskoe-Zhukovskiy-svadebnyj-krasno-belyj-s-rozami-trehyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00196. Категории: СВАДЕБНЫЕ, ЭКСКЛЮЗИВНЫЕ (ВИП).",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 23
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 198,
+    "fields": {
+      "name": "Торт свадебный двухъярусный с ландышами",
+      "image": "products_images/Eksklyuzivnye-Tort-Ramenskoe-Zhukovskiy-svadebnyj-dvuhyarusnyj-s-landyshami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00197. Категории: СВАДЕБНЫЕ, ЭКСКЛЮЗИВНЫЕ (ВИП).",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 23
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 199,
+    "fields": {
+      "name": "Торт свадебный красно-белый трехъярусный",
+      "image": "products_images/Eksklyuzivnye-Tort-Ramenskoe-Zhukovskiy-svadebnyj-krasno-belyj-trehyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00198. Категории: СВАДЕБНЫЕ, ЭКСКЛЮЗИВНЫЕ (ВИП).",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 23
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 200,
+    "fields": {
+      "name": "Торт свадебный красно-белый трехъярусный с цветами",
+      "image": "products_images/Eksklyuzivnye-Tort-Ramenskoe-Zhukovskiy-svadebnyj-krasno-belyj-trehyarusnyj-s-czvetami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00199. Категории: СВАДЕБНЫЕ, ЭКСКЛЮЗИВНЫЕ (ВИП).",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 23
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 201,
+    "fields": {
+      "name": "Торт свадебный с кружевом и фигурками",
+      "image": "products_images/Eksklyuzivnye-Tort-Ramenskoe-Zhukovskiy-svadebnyj-s-kruzhevom-i-figurkami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00200. Категории: СВАДЕБНЫЕ, ЭКСКЛЮЗИВНЫЕ (ВИП).",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 23
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 202,
+    "fields": {
+      "name": "Торт свадебный с кружевом и фигурками трехъярусный",
+      "image": "products_images/Eksklyuzivnye-Tort-Ramenskoe-Zhukovskiy-svadebnyj-s-kruzhevom-i-figurkami-trehyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00201. Категории: СВАДЕБНЫЕ, ЭКСКЛЮЗИВНЫЕ (ВИП).",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 23
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 203,
+    "fields": {
+      "name": "Торт свадебный с кружевом трехъярусный",
+      "image": "products_images/Eksklyuzivnye-Tort-Ramenskoe-Zhukovskiy-svadebnyj-s-kruzhevom-trehyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00202. Категории: СВАДЕБНЫЕ, ЭКСКЛЮЗИВНЫЕ (ВИП).",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 23
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 204,
+    "fields": {
+      "name": "Торт свадебный трехъярусный",
+      "image": "products_images/Eksklyuzivnye-Tort-Ramenskoe-Zhukovskiy-svadebnyj-trehyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00203. Категории: СВАДЕБНЫЕ, ЭКСКЛЮЗИВНЫЕ (ВИП).",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 23
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 205,
+    "fields": {
+      "name": "Торт свадебный трехъярусный с бриллиантами",
+      "image": "products_images/Eksklyuzivnye-Tort-Ramenskoe-Zhukovskiy-svadebnyj-trehyarusnyj-s-brilliantami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00204. Категории: СВАДЕБНЫЕ, ЭКСКЛЮЗИВНЫЕ (ВИП).",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 23
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 206,
+    "fields": {
+      "name": "Торт свадебный четырехъярусный",
+      "image": "products_images/Eksklyuzivnye-Tort-Ramenskoe-Zhukovskiy-svadebnyj-chetyrehyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00205. Категории: СВАДЕБНЫЕ, ЭКСКЛЮЗИВНЫЕ (ВИП).",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 4,
+      "subcategory": 23
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 207,
+    "fields": {
+      "name": "Торт азбука",
+      "image": "products_images/Torty-na-1-sentyabrya-Tort-Ramenskoe-Zhukovskiy-azbuka-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00206. Категории: ПРАЗДНИЧНЫЕ, 1 СЕНТЯБРЯ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 24
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 208,
+    "fields": {
+      "name": "Торт азбука двухслойный",
+      "image": "products_images/Torty-na-1-sentyabrya-Tort-Ramenskoe-Zhukovskiy-azbuka-dvuhslojnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00207. Категории: ПРАЗДНИЧНЫЕ, 1 СЕНТЯБРЯ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 24
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 209,
+    "fields": {
+      "name": "Торт азбука с колокольчиком",
+      "image": "products_images/Torty-na-1-sentyabrya-Tort-Ramenskoe-Zhukovskiy-azbuka-s-kolokolchikom-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00208. Категории: ПРАЗДНИЧНЫЕ, 1 СЕНТЯБРЯ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 24
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 210,
+    "fields": {
+      "name": "Торт колокольчик",
+      "image": "products_images/Torty-na-1-sentyabrya-Tort-Ramenskoe-Zhukovskiy-kolokolchik-300x300.png",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00209. Категории: ПРАЗДНИЧНЫЕ, 1 СЕНТЯБРЯ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 24
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 211,
+    "fields": {
+      "name": "Торт колокольчик с бантом",
+      "image": "products_images/Torty-na-1-sentyabrya-Tort-Ramenskoe-Zhukovskiy-kolokolchik-s-bantom-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00210. Категории: ПРАЗДНИЧНЫЕ, 1 СЕНТЯБРЯ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 24
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 212,
+    "fields": {
+      "name": "Торт на 1 сентября двухъярусный",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-na-1-sentyabrya-dvuhyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00211. Категории: ПРАЗДНИЧНЫЕ, 1 СЕНТЯБРЯ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 24
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 213,
+    "fields": {
+      "name": "Торт на 1 сентября с глобусом",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-na-1-sentyabrya-s-globusom-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00212. Категории: ПРАЗДНИЧНЫЕ, 1 СЕНТЯБРЯ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 24
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 214,
+    "fields": {
+      "name": "Торт на 1 сентября цветной двухъярусный",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-na-1-sentyabrya-czvetnoj-dvuhyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00213. Категории: ПРАЗДНИЧНЫЕ, 1 СЕНТЯБРЯ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 24
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 215,
+    "fields": {
+      "name": "Торт с колокольчиками",
+      "image": "products_images/Torty-na-1-sentyabrya-Tort-Ramenskoe-Zhukovskiy-s-kolokolchikami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00214. Категории: ПРАЗДНИЧНЫЕ, 1 СЕНТЯБРЯ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 24
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 216,
+    "fields": {
+      "name": "Торт школьная доска",
+      "image": "products_images/Torty-na-1-sentyabrya-Tort-Ramenskoe-Zhukovskiy-shkolnaya-doska-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00215. Категории: ПРАЗДНИЧНЫЕ, 1 СЕНТЯБРЯ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 24
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 217,
+    "fields": {
+      "name": "Торт школьная доска с цветами",
+      "image": "products_images/Torty-na-1-sentyabrya-Tort-Ramenskoe-Zhukovskiy-shkolnaya-doska-s-czvetami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00216. Категории: ПРАЗДНИЧНЫЕ, 1 СЕНТЯБРЯ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 24
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 218,
+    "fields": {
+      "name": "Торт школьная доска с яблоком",
+      "image": "products_images/Torty-na-1-sentyabrya-Tort-Ramenskoe-Zhukovskiy-shkolnaya-doska-s-yablokom-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00217. Категории: ПРАЗДНИЧНЫЕ, 1 СЕНТЯБРЯ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 24
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 219,
+    "fields": {
+      "name": "Торт на 14 февраля в виде губ",
+      "image": "products_images/14-fevralya-Tort-Ramenskoe-Zhukovskiy-na-14-fevralya-v-vide-gub-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00218. Категории: ПРАЗДНИЧНЫЕ, 14 ФЕВРАЛЯ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 25
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 220,
+    "fields": {
+      "name": "Торт на 14 февраля с губами",
+      "image": "products_images/14-fevralya-Tort-Ramenskoe-Zhukovskiy-na-14-fevralya-s-gubami-300x300.png",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00219. Категории: ПРАЗДНИЧНЫЕ, 14 ФЕВРАЛЯ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 25
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 221,
+    "fields": {
+      "name": "Торт на 14 февраля с цветами в сердце",
+      "image": "products_images/14-fevralya-Tort-Ramenskoe-Zhukovskiy-na-14-fevralya-s-czvetami-v-serdcze-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00220. Категории: ПРАЗДНИЧНЫЕ, 14 ФЕВРАЛЯ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 25
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 222,
+    "fields": {
+      "name": "Торт на 14 февраля сердечко",
+      "image": "products_images/14-fevralya-Tort-Ramenskoe-Zhukovskiy-na-14-fevralya-serdechko-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00221. Категории: ПРАЗДНИЧНЫЕ, 14 ФЕВРАЛЯ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 25
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 223,
+    "fields": {
+      "name": "Торт на 14 февраля сердечко с цветами",
+      "image": "products_images/14-fevralya-Tort-Ramenskoe-Zhukovskiy-na-14-fevralya-serdechko-s-czvetami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00222. Категории: ПРАЗДНИЧНЫЕ, 14 ФЕВРАЛЯ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 25
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 224,
+    "fields": {
+      "name": "Торт на 14 февраля сердце с цветком",
+      "image": "products_images/14-fevralya-Tort-Ramenskoe-Zhukovskiy-na-14-fevralya-serdcze-s-czvetkom-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00223. Категории: ПРАЗДНИЧНЫЕ, 14 ФЕВРАЛЯ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 25
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 225,
+    "fields": {
+      "name": "Торт сердце на 14 февраля",
+      "image": "products_images/14-fevralya-Den-Sv.-Valentina-serdcze-2-300x300-Tort-Ramenskoe-Zhukovskiy.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00224. Категории: ПРАЗДНИЧНЫЕ, 14 ФЕВРАЛЯ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 25
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 226,
+    "fields": {
+      "name": "Торт военного в виде рубашки",
+      "image": "products_images/23-fevralya-Tort-Ramenskoe-Zhukovskiy-voennogo-v-vide-rubashki-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00225. Категории: ПРАЗДНИЧНЫЕ, 23 ФЕВРАЛЯ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 26
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 227,
+    "fields": {
+      "name": "Торт камуфляжный",
+      "image": "products_images/23-fevralya-Tort-Ramenskoe-Zhukovskiy-kamuflyazhnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00226. Категории: ПРАЗДНИЧНЫЕ, 23 ФЕВРАЛЯ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 26
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 228,
+    "fields": {
+      "name": "Торт на 23 февраля цифры",
+      "image": "products_images/23-fevralya-Tort-Ramenskoe-Zhukovskiy-na-23-fevralya-czifry-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00227. Категории: ПРАЗДНИЧНЫЕ, 23 ФЕВРАЛЯ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 26
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 229,
+    "fields": {
+      "name": "Торт открытка на 23 февраля",
+      "image": "products_images/23-fevralya-Tort-Ramenskoe-Zhukovskiy-otkrytka-na-23-fevralya-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00228. Категории: ПРАЗДНИЧНЫЕ, 23 ФЕВРАЛЯ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 26
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 230,
+    "fields": {
+      "name": "Торт с танками (капкейки)",
+      "image": "products_images/23-fevralya-Tort-Ramenskoe-Zhukovskiy-s-tankami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00229. Категории: ПРАЗДНИЧНЫЕ, 23 ФЕВРАЛЯ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 26
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 231,
+    "fields": {
+      "name": "Торт с танком",
+      "image": "products_images/23-fevralya-Tort-Ramenskoe-Zhukovskiy-s-tankom-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00230. Категории: ПРАЗДНИЧНЫЕ, 23 ФЕВРАЛЯ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 26
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 232,
+    "fields": {
+      "name": "Торт самолет",
+      "image": "products_images/23-fevralya-Tort-Ramenskoe-Zhukovskiy-samolet-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00231. Категории: ПРАЗДНИЧНЫЕ, 23 ФЕВРАЛЯ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 26
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 233,
+    "fields": {
+      "name": "Торт с живыми цветами",
+      "image": "products_images/8-marta-Tort-Ramenskoe-Zhukovskiy-s-zhivymi-czvetami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00232. Категории: ПРАЗДНИЧНЫЕ, 8 МАРТА.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 27
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 234,
+    "fields": {
+      "name": "Торт с цветами",
+      "image": "products_images/8-marta-Tort-Ramenskoe-Zhukovskiy-s-czvetami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00233. Категории: ПРАЗДНИЧНЫЕ, 8 МАРТА.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 27
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 235,
+    "fields": {
+      "name": "Торт с цветами кувшин",
+      "image": "products_images/8-marta-Tort-Ramenskoe-Zhukovskiy-s-czvetami-kuvshin-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00234. Категории: ПРАЗДНИЧНЫЕ, 8 МАРТА.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 27
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 236,
+    "fields": {
+      "name": "Торт с цветами розы",
+      "image": "products_images/8-marta-Tort-Ramenskoe-Zhukovskiy-czvetami-rozy-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00235. Категории: ПРАЗДНИЧНЫЕ, 8 МАРТА.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 27
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 237,
+    "fields": {
+      "name": "Торт цифра 8",
+      "image": "products_images/8-marta-Tort-Ramenskoe-Zhukovskiy-czifra-8-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00236. Категории: ПРАЗДНИЧНЫЕ, 8 МАРТА.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 27
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 238,
+    "fields": {
+      "name": "Торт цифра 8 в виде бассейна",
+      "image": "products_images/8-marta-Tort-Ramenskoe-Zhukovskiy-czifra-8-v-vide-bassejna-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00237. Категории: ПРАЗДНИЧНЫЕ, 8 МАРТА.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 27
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 239,
+    "fields": {
+      "name": "Торт цифра 8 с бантиком",
+      "image": "products_images/8-marta-Tort-Ramenskoe-Zhukovskiy-czifra-8-s-bantikom-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00238. Категории: ПРАЗДНИЧНЫЕ, 8 МАРТА.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 27
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 240,
+    "fields": {
+      "name": "Торт дневник школьника",
+      "image": "products_images/Torty-na-vypuskonoj-Tort-Ramenskoe-Zhukovskiy-dnevnik-shkolnika-300x300.jpeg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00239. Категории: ПРАЗДНИЧНЫЕ, ВЫПУСКНОЙ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 28
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 241,
+    "fields": {
+      "name": "Торт журнал учителя",
+      "image": "products_images/Torty-na-vypusknoj-Tort-Ramenskoe-Zhukovskiy-zhurnal-uchitelya-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00240. Категории: ПРАЗДНИЧНЫЕ, ВЫПУСКНОЙ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 28
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 242,
+    "fields": {
+      "name": "Торт золотой колокольчик",
+      "image": "products_images/Torty-na-vypusknoj-Tort-Ramenskoe-Zhukovskiy-zolotoj-kolokolchik-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00241. Категории: ПРАЗДНИЧНЫЕ, ВЫПУСКНОЙ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 28
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 243,
+    "fields": {
+      "name": "Торт на выпускной аттестат с цветами",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-na-vypusknoj-attestat-s-czvetami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00242. Категории: ПРАЗДНИЧНЫЕ, ВЫПУСКНОЙ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 28
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 244,
+    "fields": {
+      "name": "Торт на выпускной аттестат",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-na-vypusknoj-attestat-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00243. Категории: ПРАЗДНИЧНЫЕ, ВЫПУСКНОЙ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 28
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 245,
+    "fields": {
+      "name": "Торт на выпускной дневник",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-na-vypusknoj-dnevnik-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00244. Категории: ПРАЗДНИЧНЫЕ, ВЫПУСКНОЙ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 28
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 246,
+    "fields": {
+      "name": "Торт на выпускной последний звонок",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-na-vypusknoj-poslednij-zvonok-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00245. Категории: ПРАЗДНИЧНЫЕ, ВЫПУСКНОЙ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 28
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 247,
+    "fields": {
+      "name": "Торт на выпускной с именами и фото",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-na-vypusknoj-s-imenami-i-foto-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00246. Категории: ПРАЗДНИЧНЫЕ, ВЫПУСКНОЙ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 28
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 248,
+    "fields": {
+      "name": "Торт на выпускной с именами круглый",
+      "image": "products_images/Torty-na-vypusknoj-Tort-Ramenskoe-Zhukovskiy-na-vypusknoj-s-imenami-kruglyj-300x300.png",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00247. Категории: ПРАЗДНИЧНЫЕ, ВЫПУСКНОЙ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 28
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 249,
+    "fields": {
+      "name": "Торт 9 мая с георгиевской лентой",
+      "image": "products_images/Den-pobedy-Tort-Ramenskoe-Zhukovskiy-9-maya-s-georgievskoj-lentoj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00248. Категории: ПРАЗДНИЧНЫЕ, ДЕНЬ ПОБЕДЫ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 30
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 250,
+    "fields": {
+      "name": "Торт Медаль",
+      "image": "products_images/Den-pobedy-Tort-Ramenskoe-Zhukovskiy-Medal-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00249. Категории: ПРАЗДНИЧНЫЕ, ДЕНЬ ПОБЕДЫ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 30
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 251,
+    "fields": {
+      "name": "Торт с георгиевской лентой",
+      "image": "products_images/Den-pobedy-Tort-Ramenskoe-Zhukovskiy-s-georgievskoj-lentoj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00250. Категории: ПРАЗДНИЧНЫЕ, ДЕНЬ ПОБЕДЫ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 30
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 252,
+    "fields": {
+      "name": "Торт с Днем Победы",
+      "image": "products_images/Den-pobedy-Tort-Ramenskoe-Zhukovskiy-s-Dnem-Pobedy-300x300.png",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00251. Категории: ПРАЗДНИЧНЫЕ, ДЕНЬ ПОБЕДЫ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 30
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 253,
+    "fields": {
+      "name": "Торт с флагом",
+      "image": "products_images/Den-Rossii-Tort-Ramenskoe-Zhukovskiy-s-flagom-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00252. Категории: ПРАЗДНИЧНЫЕ, ДЕНЬ РОССИИ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 31
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 254,
+    "fields": {
+      "name": "Торт с флагом трехъярусный",
+      "image": "products_images/Den-Rossii-Tort-Ramenskoe-Zhukovskiy-s-flagom-trehyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00253. Категории: ПРАЗДНИЧНЫЕ, ДЕНЬ РОССИИ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 31
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 255,
+    "fields": {
+      "name": "Торт флаг",
+      "image": "products_images/Den-Rossii-Tort-Ramenskoe-Zhukovskiy-flag-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00254. Категории: ПРАЗДНИЧНЫЕ, ДЕНЬ РОССИИ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 31
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 256,
+    "fields": {
+      "name": "Торт флаг с гербом",
+      "image": "products_images/Den-Rossii-Tort-Ramenskoe-Zhukovskiy-flag-s-gerbom-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00255. Категории: ПРАЗДНИЧНЫЕ, ДЕНЬ РОССИИ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 31
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 257,
+    "fields": {
+      "name": "Торт на выписку из роддома в виде коляски",
+      "image": "products_images/Na-vypisku-Tort-Ramenskoe-Zhukovskiy-na-vypisku-iz-roddoma-v-vide-kolyaski-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00256. Категории: ПРАЗДНИЧНЫЕ, НА ВЫПИСКУ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 32
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 258,
+    "fields": {
+      "name": "Торт на выписку из роддома девочка",
+      "image": "products_images/Na-vypisku-Tort-Ramenskoe-Zhukovskiy-na-vypisku-iz-roddoma-devochka-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00257. Категории: ПРАЗДНИЧНЫЕ, НА ВЫПИСКУ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 32
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 259,
+    "fields": {
+      "name": "Торт на выписку из роддома коляска",
+      "image": "products_images/Na-vypisku-Tort-Ramenskoe-Zhukovskiy-na-vypisku-iz-roddoma-kolyaska-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00258. Категории: ПРАЗДНИЧНЫЕ, НА ВЫПИСКУ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 32
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 260,
+    "fields": {
+      "name": "Торт на выписку из роддома с малышом",
+      "image": "products_images/Na-vypisku-Tort-Ramenskoe-Zhukovskiy-na-vypisku-iz-roddoma-s-malyshom-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00259. Категории: ПРАЗДНИЧНЫЕ, НА ВЫПИСКУ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 32
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 261,
+    "fields": {
+      "name": "Торт на выписку из роддома с метрикой",
+      "image": "products_images/Na-vypisku-Tort-Ramenskoe-Zhukovskiy-na-vypisku-iz-roddoma-s-metrikoj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00260. Категории: ПРАЗДНИЧНЫЕ, НА ВЫПИСКУ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 32
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 262,
+    "fields": {
+      "name": "Торт на выписку из роддома с метрикой и пинетками",
+      "image": "products_images/Na-vypisku-Tort-Ramenskoe-Zhukovskiy-na-vypisku-iz-roddoma-s-metrikoj-i-pinetkami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00261. Категории: ПРАЗДНИЧНЫЕ, НА ВЫПИСКУ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 32
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 263,
+    "fields": {
+      "name": "Торт на выписку из роддома со слоником двухъярусный",
+      "image": "products_images/Na-vypisku-Tort-Ramenskoe-Zhukovskiy-na-vypisku-iz-roddoma-so-slonikom-dvuhyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00262. Категории: ПРАЗДНИЧНЫЕ, НА ВЫПИСКУ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 32
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 264,
+    "fields": {
+      "name": "Торт елка",
+      "image": "products_images/Novyj-god-Tort-Ramenskoe-Zhukovskiy-elka-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00263. Категории: ПРАЗДНИЧНЫЕ, НОВЫЙ ГОД.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 33
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 265,
+    "fields": {
+      "name": "Торт елка с подарками",
+      "image": "products_images/Novyj-god-Tort-Ramenskoe-Zhukovskiy-elka-s-podarkami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00264. Категории: ПРАЗДНИЧНЫЕ, НОВЫЙ ГОД.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 33
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 266,
+    "fields": {
+      "name": "Торт подарок",
+      "image": "products_images/Novyj-god-Tort-Ramenskoe-Zhukovskiy-podarok-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00265. Категории: ПРАЗДНИЧНЫЕ, НОВЫЙ ГОД.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 33
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 267,
+    "fields": {
+      "name": "Торт подарок с машиной",
+      "image": "products_images/Novyj-god-Tort-Ramenskoe-Zhukovskiy-podarok-s-mashinoj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00266. Категории: ПРАЗДНИЧНЫЕ, НОВЫЙ ГОД.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 33
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 268,
+    "fields": {
+      "name": "Торт с Дедом Морозом",
+      "image": "products_images/Novyj-god-Tort-Ramenskoe-Zhukovskiy-s-Dedom-Morozom-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00267. Категории: ПРАЗДНИЧНЫЕ, НОВЫЙ ГОД.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 33
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 269,
+    "fields": {
+      "name": "Торт с Дедом Морозом двухъярусный",
+      "image": "products_images/Novyj-god-Tort-Ramenskoe-Zhukovskiy-s-Dedom-Morozom-dvuhyarusnyj-300x300.png",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00268. Категории: ПРАЗДНИЧНЫЕ, НОВЫЙ ГОД.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 33
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 270,
+    "fields": {
+      "name": "Торт с Дедом Морозом и снегурочкой",
+      "image": "products_images/Novyj-god-Tort-Ramenskoe-Zhukovskiy-s-Dedom-Morozom-i-snegurochkoj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00269. Категории: ПРАЗДНИЧНЫЕ, НОВЫЙ ГОД.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 33
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 271,
+    "fields": {
+      "name": "Торт символ года",
+      "image": "products_images/Novyj-god-Tort-Ramenskoe-Zhukovskiy-simvol-goda-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00270. Категории: ПРАЗДНИЧНЫЕ, НОВЫЙ ГОД.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 33
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 272,
+    "fields": {
+      "name": "Торт символ года с шоколадом",
+      "image": "products_images/Novyj-god-Tort-Ramenskoe-Zhukovskiy-simvol-goda-s-shokoladom-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00271. Категории: ПРАЗДНИЧНЫЕ, НОВЫЙ ГОД.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 33
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 273,
+    "fields": {
+      "name": "Торт снеговик",
+      "image": "products_images/Novyj-god-Tort-Ramenskoe-Zhukovskiy-snegovik-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00272. Категории: ПРАЗДНИЧНЫЕ, НОВЫЙ ГОД.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 33
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 274,
+    "fields": {
+      "name": "Торт корзинка с яйцами",
+      "image": "products_images/Pasha-Tort-Ramenskoe-Zhukovskiy-korzinka-s-yajczami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00273. Категории: ПРАЗДНИЧНЫЕ, ПАСХА.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 34
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 275,
+    "fields": {
+      "name": "Торт корзинка с яйцами двухъярусный",
+      "image": "products_images/Pasha-Tort-Ramenskoe-Zhukovskiy-korzinka-s-yajczami-dvuhyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00274. Категории: ПРАЗДНИЧНЫЕ, ПАСХА.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 34
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 276,
+    "fields": {
+      "name": "Торт корзинка с яйцами и бантиком",
+      "image": "products_images/Pasha-Tort-Ramenskoe-Zhukovskiy-korzinka-s-yajczami-i-bantikom-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00275. Категории: ПРАЗДНИЧНЫЕ, ПАСХА.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 34
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 277,
+    "fields": {
+      "name": "Торт корзинка с яйцами и зайцами",
+      "image": "products_images/Pasha-Tort-Ramenskoe-Zhukovskiy-korzinka-s-yajczami-i-zajczami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00276. Категории: ПРАЗДНИЧНЫЕ, ПАСХА.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 34
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 278,
+    "fields": {
+      "name": "Торт на Хеллоуин",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-na-Hellouin-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00277. Категории: ПРАЗДНИЧНЫЕ, ХЕЛЛОУИН.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 37
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 279,
+    "fields": {
+      "name": "Торт на Хеллоуин круглый",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-na-Hellouin-kruglyj-300x300.png",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00278. Категории: ПРАЗДНИЧНЫЕ, ХЕЛЛОУИН.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 37
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 280,
+    "fields": {
+      "name": "Торт на Хеллоуин фигурный",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-na-Hellouin-figurnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00279. Категории: ПРАЗДНИЧНЫЕ, ХЕЛЛОУИН.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 37
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 281,
+    "fields": {
+      "name": "Торт Хеллоуин",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-Hellouin-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00280. Категории: ПРАЗДНИЧНЫЕ, ХЕЛЛОУИН.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 37
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 282,
+    "fields": {
+      "name": "Торт Хеллоуин двухъярусный",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-Hellouin-dvuhyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00281. Категории: ПРАЗДНИЧНЫЕ, ХЕЛЛОУИН.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 37
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 283,
+    "fields": {
+      "name": "Торт Хеллоуин паутина",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-Hellouin-pautina-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00282. Категории: ПРАЗДНИЧНЫЕ, ХЕЛЛОУИН.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 37
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 284,
+    "fields": {
+      "name": "Торт Хеллоуин трехъярусный",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-Hellouin-trehyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00283. Категории: ПРАЗДНИЧНЫЕ, ХЕЛЛОУИН.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 37
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 285,
+    "fields": {
+      "name": "Торт Хеллоуин фигурный",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-Hellouin-figurnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00284. Категории: ПРАЗДНИЧНЫЕ, ХЕЛЛОУИН.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 5,
+      "subcategory": 37
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 286,
+    "fields": {
+      "name": "Торт любимому начальнику",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-lyubimomu-nachalniku-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00285. Категории: КОРПОРАТИВНЫЕ, НАЧАЛЬНИКУ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 6,
+      "subcategory": 38
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 287,
+    "fields": {
+      "name": "Торт на день рождения начальнику",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-na-den-rozhdeniya-nachalniku-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00286. Категории: КОРПОРАТИВНЫЕ, НАЧАЛЬНИКУ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 6,
+      "subcategory": 38
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 288,
+    "fields": {
+      "name": "Торт начальнику мега боссу",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-nachalniku-mega-bossu-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00287. Категории: КОРПОРАТИВНЫЕ, НАЧАЛЬНИКУ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 6,
+      "subcategory": 38
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 289,
+    "fields": {
+      "name": "Торт начальнику с персоналом",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-nachalniku-s-personalom-300x300.png",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00288. Категории: КОРПОРАТИВНЫЕ, НАЧАЛЬНИКУ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 6,
+      "subcategory": 38
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 290,
+    "fields": {
+      "name": "Торт начальнику с рабочим столом",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-nachalniku-s-rabochim-stolom-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00289. Категории: КОРПОРАТИВНЫЕ, НАЧАЛЬНИКУ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 6,
+      "subcategory": 38
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 291,
+    "fields": {
+      "name": "Торт начальнику с шоколадом",
+      "image": "products_images/Tort-Ramenskoe-Zhukovskiy-nachalniku-s-shokoladom-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00290. Категории: КОРПОРАТИВНЫЕ, НАЧАЛЬНИКУ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 6,
+      "subcategory": 38
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 292,
+    "fields": {
+      "name": "Торт с логотипом",
+      "image": "products_images/Korporativnye-torty-Tort-Ramenskoe-Zhukovskiy-s-logotipom-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00291. Категории: КОРПОРАТИВНЫЕ, С ЛОГОТИПОМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 6,
+      "subcategory": 39
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 293,
+    "fields": {
+      "name": "Торт с логотипом и цветами",
+      "image": "products_images/Korporativnye-torty-Tort-Ramenskoe-Zhukovskiy-s-logotipom-i-czvetami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00292. Категории: КОРПОРАТИВНЫЕ, С ЛОГОТИПОМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 6,
+      "subcategory": 39
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 294,
+    "fields": {
+      "name": "Торт с логотипом и ягодами",
+      "image": "products_images/Korporativnye-torty-Tort-Ramenskoe-Zhukovskiy-s-logotipom-i-yagodami-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00293. Категории: КОРПОРАТИВНЫЕ, С ЛОГОТИПОМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 6,
+      "subcategory": 39
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 295,
+    "fields": {
+      "name": "Торт с логотипом кремовый",
+      "image": "products_images/Korporativnye-torty-Tort-Ramenskoe-Zhukovskiy-s-logotipom-kremovyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00294. Категории: КОРПОРАТИВНЫЕ, С ЛОГОТИПОМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 6,
+      "subcategory": 39
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 296,
+    "fields": {
+      "name": "Торт с логотипом круглый",
+      "image": "products_images/Korporativnye-torty-Tort-Ramenskoe-Zhukovskiy-s-logotipom-kruglyj-300x300.png",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00295. Категории: КОРПОРАТИВНЫЕ, С ЛОГОТИПОМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 6,
+      "subcategory": 39
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 297,
+    "fields": {
+      "name": "Торт с логотипом на конференцию",
+      "image": "products_images/Korporativnye-torty-Tort-Ramenskoe-Zhukovskiy-s-logotipom-na-konferencziyu-300x300.png",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00296. Категории: КОРПОРАТИВНЫЕ, С ЛОГОТИПОМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 6,
+      "subcategory": 39
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 298,
+    "fields": {
+      "name": "Торт с логотипом трехъярусный",
+      "image": "products_images/Korporativnye-torty-Tort-Ramenskoe-Zhukovskiy-s-logotipom-trehyarusnyj-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00297. Категории: КОРПОРАТИВНЫЕ, С ЛОГОТИПОМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 6,
+      "subcategory": 39
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 299,
+    "fields": {
+      "name": "Торт одноярусный с логотипом",
+      "image": "products_images/Korporativnye-torty-Tort-Ramenskoe-Zhukovskiy-s-logotipom-dlya-kofejni-300x300.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00298. Категории: КОРПОРАТИВНЫЕ, С ЛОГОТИПОМ.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 6,
+      "subcategory": 39
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 300,
+    "fields": {
+      "name": "Йогуртовая начинка",
+      "image": "products_images/jogurtovaya-nachinka-1_yR7zUg3-Tort-Ramenskoe-Zhukovskiy.jpg",
+      "description": "",
+      "short_description": "Артикул: 00299. Категории: НАЧИНКИ ТОРТОВ, ВИДЫ НАЧИНОК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 7,
+      "subcategory": 40
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 301,
+    "fields": {
+      "name": "Тирамису с клубникой начинка",
+      "image": "products_images/tiramisu-s-klubnikoj-nachinka-1-Tort-Ramenskoe-Zhukovskiy.jpg",
+      "description": "",
+      "short_description": "Артикул: 00300. Категории: НАЧИНКИ ТОРТОВ, ВИДЫ НАЧИНОК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 7,
+      "subcategory": 40
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 302,
+    "fields": {
+      "name": "Птичье молоко начинка",
+      "image": "products_images/ptiche-moloko-nachinka-2-Tort-Ramenskoe-Zhukovskiy.jpg",
+      "description": "",
+      "short_description": "Артикул: 00301. Категории: НАЧИНКИ ТОРТОВ, ВИДЫ НАЧИНОК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 7,
+      "subcategory": 40
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 303,
+    "fields": {
+      "name": "Сметанник начинка",
+      "image": "products_images/smetannik-nachinka-1-Tort-Ramenskoe-Zhukovskiy.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00302. Категории: НАЧИНКИ ТОРТОВ, ВИДЫ НАЧИНОК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 7,
+      "subcategory": 40
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 304,
+    "fields": {
+      "name": "Диабетическая начинка",
+      "image": "products_images/smetannik-nachinka-1_c3SyK3t-Tort-Ramenskoe-Zhukovskiy.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00303. Категории: НАЧИНКИ ТОРТОВ, ВИДЫ НАЧИНОК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 7,
+      "subcategory": 40
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 305,
+    "fields": {
+      "name": "Медовик начинка",
+      "image": "products_images/medovik-nachinka-2-Tort-Ramenskoe-Zhukovskiy.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00304. Категории: НАЧИНКИ ТОРТОВ, ВИДЫ НАЧИНОК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 7,
+      "subcategory": 40
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 306,
+    "fields": {
+      "name": "Кофейная начинка",
+      "image": "products_images/kofejnaya-nachinka-1-Tort-Ramenskoe-Zhukovskiy.jpg",
+      "description": "",
+      "short_description": "Артикул: 00305. Категории: НАЧИНКИ ТОРТОВ, ВИДЫ НАЧИНОК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 7,
+      "subcategory": 40
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 307,
+    "fields": {
+      "name": "Три шоколада начинка",
+      "image": "products_images/tri-shokolada-nachinka-1-Tort-Ramenskoe-Zhukovskiy.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00306. Категории: НАЧИНКИ ТОРТОВ, ВИДЫ НАЧИНОК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 7,
+      "subcategory": 40
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 308,
+    "fields": {
+      "name": "Начинка клюква в шоколаде",
+      "image": "products_images/nachinka-klyukva-v-shokolade-1-Tort-Ramenskoe-Zhukovskiy.jpg",
+      "description": "",
+      "short_description": "Артикул: 00307. Категории: НАЧИНКИ ТОРТОВ, ВИДЫ НАЧИНОК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 7,
+      "subcategory": 40
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 309,
+    "fields": {
+      "name": "Творожная начинка",
+      "image": "products_images/tvorozhnaya-nachinka-1-Tort-Ramenskoe-Zhukovskiy.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00308. Категории: НАЧИНКИ ТОРТОВ, ВИДЫ НАЧИНОК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 7,
+      "subcategory": 40
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 310,
+    "fields": {
+      "name": "Птичье молоко начинка",
+      "image": "products_images/ptiche-moloko-nachinka-3-Tort-Ramenskoe-Zhukovskiy.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00309. Категории: НАЧИНКИ ТОРТОВ, ВИДЫ НАЧИНОК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 7,
+      "subcategory": 40
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 311,
+    "fields": {
+      "name": "Захер начинка",
+      "image": "products_images/zaher-nachinka-1-Tort-Ramenskoe-Zhukovskiy.jpg",
+      "description": "",
+      "short_description": "Артикул: 00310. Категории: НАЧИНКИ ТОРТОВ, ВИДЫ НАЧИНОК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 7,
+      "subcategory": 40
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 312,
+    "fields": {
+      "name": "Лимонная начинка",
+      "image": "products_images/limonnaya-nachinka-1-Tort-Ramenskoe-Zhukovskiy.jpg",
+      "description": "",
+      "short_description": "Артикул: 00311. Категории: НАЧИНКИ ТОРТОВ, ВИДЫ НАЧИНОК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 7,
+      "subcategory": 40
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 313,
+    "fields": {
+      "name": "Карамельная начинка",
+      "image": "products_images/karamelnaya-nachinka-1-Tort-Ramenskoe-Zhukovskiy.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00312. Категории: НАЧИНКИ ТОРТОВ, ВИДЫ НАЧИНОК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 7,
+      "subcategory": 40
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 314,
+    "fields": {
+      "name": "Пралине начинка",
+      "image": "products_images/praline-nachinka-1-Tort-Ramenskoe-Zhukovskiy.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00313. Категории: НАЧИНКИ ТОРТОВ, ВИДЫ НАЧИНОК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 7,
+      "subcategory": 40
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 315,
+    "fields": {
+      "name": "Шоколадная начинка",
+      "image": "products_images/shokoladnaya-nachinka-1-Tort-Ramenskoe-Zhukovskiy.jpg",
+      "description": "Уважаемые покупатели! Декор на торт: фигурки, топперы, надписи, ягоды, цветы в стоимость за кг не входят и считаются отдельно.",
+      "short_description": "Артикул: 00314. Категории: НАЧИНКИ ТОРТОВ, ВИДЫ НАЧИНОК.",
+      "price": "1600.00",
+      "quantity": 1,
+      "category": 7,
+      "subcategory": 40
+    }
+  }
+]
